@@ -15,5 +15,7 @@ cliente.endereços = [
 ];
 
 for (let chave in cliente) {
+   if (tipo  !== "object" && tipo !== "function"){
     console.log(`A chave ${chave} tem o valor ${cliente[chave]}`);
+}
 }
