@@ -1,0 +1,10 @@
+{
+    "nome":"João",
+    "email": "joao@firma.com",
+    "endereço":{
+        "Rua": "R. Joseph climber",
+        "numero":1338,
+        "apartamento": true,
+        "complemento": "ap 934"
+    }
+}
