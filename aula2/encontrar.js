@@ -6,4 +6,6 @@ function encontar(lista, chave, valor) {
 
 const encontrado = encontar(clientes, "nome", "Tildi");
 
+const encontrado2 = encontrar(clientes, "telefone", "1918820860");
+
 console.log(encontrado);
